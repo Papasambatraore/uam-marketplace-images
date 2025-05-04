@@ -26,5 +26,31 @@
     "createdAt": "2025-05-04T13:40:21.420Z",
     "updatedAt": "2025-05-04T13:40:21.420Z",
     "isActive": true
+  },
+  {
+    "title": "Mouton ",
+    "description": "Ksudhjiwij",
+    "price": "120000",
+    "category": "moutons",
+    "department": "Thiès",
+    "country": "Sénégal",
+    "whatsapp": "786520472",
+    "images": [
+      "https://raw.githubusercontent.com/Papasambatraore/uam-marketplace-images/main/images/products/1746373709536-image.jpg"
+    ],
+    "race": "Ladoum",
+    "imagePreviews": [
+      "blob:https://diourgui.netlify.app/456c855e-10d1-4ded-927a-d06aec30dfe2"
+    ],
+    "id": "1746373714603",
+    "userId": 1746373321817,
+    "author": "Sarr",
+    "date": "2025-05-04T15:48:34.603Z",
+    "status": "active",
+    "views": 0,
+    "favorites": [],
+    "createdAt": "2025-05-04T15:48:34.930Z",
+    "updatedAt": "2025-05-04T15:48:34.603Z",
+    "isActive": true
   }
 ]
