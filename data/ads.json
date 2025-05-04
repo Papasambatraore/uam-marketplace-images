@@ -1,11 +1,11 @@
 [
   {
     "title": "Lapereaux",
-    "description": "Couple mÃƒÂ©tissage gÃƒÂ©ant-fauve",
+    "description": "Couple mÃƒÆ’Ã‚Â©tissage gÃƒÆ’Ã‚Â©ant-fauve",
     "price": "30000",
     "category": "lapins",
     "department": "Dakar",
-    "country": "SÃƒÂ©nÃƒÂ©gal",
+    "country": "SÃƒÆ’Ã‚Â©nÃƒÆ’Ã‚Â©gal",
     "whatsapp": "774907982",
     "images": [
       "https://raw.githubusercontent.com/Papasambatraore/uam-marketplace-images/main/images/products/1746365996438-417D9D0F-4757-4961-BA31-458A57ECF6F4.jpeg",
@@ -32,8 +32,8 @@
     "description": "Beau et fort ",
     "price": "120000",
     "category": "moutons",
-    "department": "Thiès",
-    "country": "Sénégal",
+    "department": "ThiÃ¨s",
+    "country": "SÃ©nÃ©gal",
     "whatsapp": "786520472",
     "images": [
       "https://raw.githubusercontent.com/Papasambatraore/uam-marketplace-images/main/images/products/1746374355135-IMG_2546.png"
@@ -51,32 +51,6 @@
     "favorites": [],
     "createdAt": "2025-05-04T15:59:23.433Z",
     "updatedAt": "2025-05-04T15:59:23.133Z",
-    "isActive": true
-  },
-  {
-    "title": "Pigeon ",
-    "description": "Pigeon ",
-    "price": "5000",
-    "category": "volailles",
-    "department": "Dakar",
-    "country": "S�n�gal",
-    "whatsapp": "27819379262",
-    "images": [
-      "https://raw.githubusercontent.com/Papasambatraore/uam-marketplace-images/main/images/products/1746382345974-614341C7-EE3F-4078-AB8B-667DE42E0CB8.jpeg"
-    ],
-    "race": "Voyageur",
-    "imagePreviews": [
-      "blob:https://diourgui.netlify.app/bfb1e61e-c21a-489b-80c9-9c50fb5f5830"
-    ],
-    "id": "1746382360406",
-    "userId": 1746358866288,
-    "author": "Gamer",
-    "date": "2025-05-04T18:12:40.406Z",
-    "status": "active",
-    "views": 0,
-    "favorites": [],
-    "createdAt": "2025-05-04T18:12:40.790Z",
-    "updatedAt": "2025-05-04T18:12:40.406Z",
     "isActive": true
   }
 ]
