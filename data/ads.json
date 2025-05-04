@@ -52,5 +52,31 @@
     "createdAt": "2025-05-04T15:59:23.433Z",
     "updatedAt": "2025-05-04T15:59:23.133Z",
     "isActive": true
+  },
+  {
+    "title": "Pigeon ",
+    "description": "Pigeon ",
+    "price": "5000",
+    "category": "volailles",
+    "department": "Dakar",
+    "country": "Sénégal",
+    "whatsapp": "27819379262",
+    "images": [
+      "https://raw.githubusercontent.com/Papasambatraore/uam-marketplace-images/main/images/products/1746382345974-614341C7-EE3F-4078-AB8B-667DE42E0CB8.jpeg"
+    ],
+    "race": "Voyageur",
+    "imagePreviews": [
+      "blob:https://diourgui.netlify.app/bfb1e61e-c21a-489b-80c9-9c50fb5f5830"
+    ],
+    "id": "1746382360406",
+    "userId": 1746358866288,
+    "author": "Gamer",
+    "date": "2025-05-04T18:12:40.406Z",
+    "status": "active",
+    "views": 0,
+    "favorites": [],
+    "createdAt": "2025-05-04T18:12:40.790Z",
+    "updatedAt": "2025-05-04T18:12:40.406Z",
+    "isActive": true
   }
 ]
