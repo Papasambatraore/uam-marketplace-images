@@ -1,11 +1,11 @@
 [
   {
     "title": "Lapereaux",
-    "description": "Couple mÃ©tissage gÃ©ant-fauve",
+    "description": "Couple mÃƒÂ©tissage gÃƒÂ©ant-fauve",
     "price": "30000",
     "category": "lapins",
     "department": "Dakar",
-    "country": "SÃ©nÃ©gal",
+    "country": "SÃƒÂ©nÃƒÂ©gal",
     "whatsapp": "774907982",
     "images": [
       "https://raw.githubusercontent.com/Papasambatraore/uam-marketplace-images/main/images/products/1746365996438-417D9D0F-4757-4961-BA31-458A57ECF6F4.jpeg",
@@ -21,7 +21,7 @@
     "author": "traore",
     "date": "2025-05-04T13:40:21.420Z",
     "status": "active",
-    "views": 3,
+    "views": 4,
     "favorites": [],
     "createdAt": "2025-05-04T13:40:21.420Z",
     "updatedAt": "2025-05-04T13:40:21.420Z",
@@ -32,8 +32,8 @@
     "description": "Beau et fort ",
     "price": "120000",
     "category": "moutons",
-    "department": "Thi�s",
-    "country": "S�n�gal",
+    "department": "Thiès",
+    "country": "Sénégal",
     "whatsapp": "786520472",
     "images": [
       "https://raw.githubusercontent.com/Papasambatraore/uam-marketplace-images/main/images/products/1746374355135-IMG_2546.png"
