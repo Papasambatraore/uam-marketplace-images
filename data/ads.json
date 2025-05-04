@@ -1,1 +1,28 @@
-[]
+[
+  {
+    "title": "Tr",
+    "description": "Vv",
+    "price": "667",
+    "category": "lapins",
+    "department": "Dakar",
+    "country": "Sénégal",
+    "whatsapp": "774907982",
+    "images": [
+      "https://raw.githubusercontent.com/Papasambatraore/uam-marketplace-images/main/images/products/1746364409463-CC09781A-4022-4889-9C70-137B5D605A03.jpeg"
+    ],
+    "race": "Gg",
+    "imagePreviews": [
+      "blob:https://diourgui.netlify.app/7a907dd6-6dc7-4df4-a8f1-cf2923421997"
+    ],
+    "id": "1746364414854",
+    "userId": 1746358866288,
+    "author": "Gamer",
+    "date": "2025-05-04T13:13:34.854Z",
+    "status": "active",
+    "views": 0,
+    "favorites": [],
+    "createdAt": "2025-05-04T13:13:34.854Z",
+    "updatedAt": "2025-05-04T13:13:34.854Z",
+    "isActive": true
+  }
+]
