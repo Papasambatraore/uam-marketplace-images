@@ -1,11 +1,11 @@
 [
   {
     "title": "Lapereaux",
-    "description": "Couple métissage géant-fauve",
+    "description": "Couple mÃ©tissage gÃ©ant-fauve",
     "price": "30000",
     "category": "lapins",
     "department": "Dakar",
-    "country": "Sénégal",
+    "country": "SÃ©nÃ©gal",
     "whatsapp": "774907982",
     "images": [
       "https://raw.githubusercontent.com/Papasambatraore/uam-marketplace-images/main/images/products/1746365996438-417D9D0F-4757-4961-BA31-458A57ECF6F4.jpeg",
@@ -32,8 +32,8 @@
     "description": "Ksudhjiwij",
     "price": "120000",
     "category": "moutons",
-    "department": "Thi�s",
-    "country": "S�n�gal",
+    "department": "Thiès",
+    "country": "Sénégal",
     "whatsapp": "786520472",
     "images": [
       "https://raw.githubusercontent.com/Papasambatraore/uam-marketplace-images/main/images/products/1746373709536-image.jpg"
@@ -47,7 +47,7 @@
     "author": "Sarr",
     "date": "2025-05-04T15:48:34.603Z",
     "status": "active",
-    "views": 0,
+    "views": 1,
     "favorites": [],
     "createdAt": "2025-05-04T15:48:34.930Z",
     "updatedAt": "2025-05-04T15:48:34.603Z",
