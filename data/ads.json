@@ -26,31 +26,5 @@
     "createdAt": "2025-05-04T13:40:21.420Z",
     "updatedAt": "2025-05-04T13:40:21.420Z",
     "isActive": true
-  },
-  {
-    "title": "Moutons",
-    "description": "Beau et fort ",
-    "price": "120000",
-    "category": "moutons",
-    "department": "ThiÃ¨s",
-    "country": "SÃ©nÃ©gal",
-    "whatsapp": "786520472",
-    "images": [
-      "https://raw.githubusercontent.com/Papasambatraore/uam-marketplace-images/main/images/products/1746374355135-IMG_2546.png"
-    ],
-    "race": "Ladoum",
-    "imagePreviews": [
-      "blob:https://diourgui.netlify.app/c4ff96d9-a858-4a8b-b8dd-c3165140af90"
-    ],
-    "id": "1746374363133",
-    "userId": 1746373321817,
-    "author": "Sarr",
-    "date": "2025-05-04T15:59:23.133Z",
-    "status": "active",
-    "views": 1,
-    "favorites": [],
-    "createdAt": "2025-05-04T15:59:23.433Z",
-    "updatedAt": "2025-05-04T15:59:23.133Z",
-    "isActive": true
   }
 ]
