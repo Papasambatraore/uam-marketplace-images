@@ -26,5 +26,33 @@
     "createdAt": "2025-05-04T13:40:21.420Z",
     "updatedAt": "2025-05-04T13:40:21.420Z",
     "isActive": true
+  },
+  {
+    "title": "GFD et Geant Papillon Francais",
+    "description": "2 Mois bien portant",
+    "price": "70.000",
+    "category": "lapins",
+    "department": "Dakar",
+    "country": "Sénégal",
+    "whatsapp": "773126525",
+    "images": [
+      "https://raw.githubusercontent.com/Papasambatraore/uam-marketplace-images/main/images/products/1746462121541-20250502_201817.jpg",
+      "https://raw.githubusercontent.com/Papasambatraore/uam-marketplace-images/main/images/products/1746462134006-20250502_201742.jpg"
+    ],
+    "race": "metissage GDF et Geant Papillon Francais",
+    "imagePreviews": [
+      "blob:https://diourgui.netlify.app/2139f883-d2e3-4313-aa04-f982aa7316e8",
+      "blob:https://diourgui.netlify.app/6bfdfa18-4e75-4b6c-819a-c9c540b6b5ae"
+    ],
+    "id": "1746462139873",
+    "userId": 1746461835626,
+    "author": "Diabang",
+    "date": "2025-05-05T16:22:19.873Z",
+    "status": "active",
+    "views": 0,
+    "favorites": [],
+    "createdAt": "2025-05-05T16:22:20.168Z",
+    "updatedAt": "2025-05-05T16:22:19.873Z",
+    "isActive": true
   }
 ]
