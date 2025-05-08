@@ -1,11 +1,11 @@
 [
   {
     "title": "Lapereaux",
-    "description": "Couple mÃƒÆ’Ã‚Â©tissage gÃƒÆ’Ã‚Â©ant-fauve",
+    "description": "Couple mÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©tissage gÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©ant-fauve",
     "price": "30000",
     "category": "lapins",
     "department": "Dakar",
-    "country": "SÃƒÆ’Ã‚Â©nÃƒÆ’Ã‚Â©gal",
+    "country": "SÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©nÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©gal",
     "whatsapp": "774907982",
     "images": [
       "https://raw.githubusercontent.com/Papasambatraore/uam-marketplace-images/main/images/products/1746365996438-417D9D0F-4757-4961-BA31-458A57ECF6F4.jpeg",
@@ -33,7 +33,7 @@
     "price": "70.000",
     "category": "lapins",
     "department": "Dakar",
-    "country": "S�n�gal",
+    "country": "Sénégal",
     "whatsapp": "773126525",
     "images": [
       "https://raw.githubusercontent.com/Papasambatraore/uam-marketplace-images/main/images/products/1746462121541-20250502_201817.jpg",
@@ -49,7 +49,7 @@
     "author": "Diabang",
     "date": "2025-05-05T16:22:19.873Z",
     "status": "active",
-    "views": 0,
+    "views": 1,
     "favorites": [],
     "createdAt": "2025-05-05T16:22:20.168Z",
     "updatedAt": "2025-05-05T16:22:19.873Z",
